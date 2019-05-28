@@ -80,7 +80,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>523ab37b1be133004a162f86ec4bcb0f</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>NeedIt Active Weekly requests by Priority</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -88,13 +88,13 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>pa_widgets_523ab37b1be133004a162f86ec4bcb0f</sys_update_name>
         <sys_updated_by>emma</sys_updated_by>
-        <sys_updated_on>2019-05-28 14:14:46</sys_updated_on>
+        <sys_updated_on>2019-05-28 14:19:57</sys_updated_on>
         <tag/>
         <template>template1</template>
         <treemap_max_color display_value="Green">65b302aea9fe3dba00a530d65ecc2106</treemap_max_color>
         <treemap_min_color display_value="Red">65b30395a9fe3dba003277a7b660b5db</treemap_min_color>
         <type>breakdown</type>
-        <visualization>pareto</visualization>
+        <visualization>column_total</visualization>
         <words_in_trendline>5</words_in_trendline>
         <yaxis2_from/>
         <yaxis2_title/>
